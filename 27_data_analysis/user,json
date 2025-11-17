@@ -1,0 +1,72 @@
+[
+    {
+        "username": "jacksonjonathan",
+        "name": "Miss Melissa Benson",
+        "email": "brenda69@example.org",
+        "address": "83178 Gonzalez Springs\nGutierrezborough, MO 73928",
+        "age": 23
+    },
+    {
+        "username": "lopeznatasha",
+        "name": "Robert Oconnor",
+        "email": "pattersondestiny@example.org",
+        "address": "071 Carr Avenue Suite 792\nSouth Angelaburgh, MO 38667",
+        "age": 34
+    },
+    {
+        "username": "robertvillarreal",
+        "name": "Jessica Hinton",
+        "email": "cody12@example.net",
+        "address": "3120 Gibson Point Suite 322\nWest Rhonda, GA 68563",
+        "age": 65
+    },
+    {
+        "username": "shanerivers",
+        "name": "Amanda Miles",
+        "email": "jason22@example.net",
+        "address": "02394 Webb Prairie Apt. 662\nDavisside, AL 85987",
+        "age": 31
+    },
+    {
+        "username": "kylesmith",
+        "name": "Jennifer Hodge",
+        "email": "doylejohn@example.net",
+        "address": "09332 Murray Grove\nNorth Coreyville, MI 04041",
+        "age": 22
+    },
+    {
+        "username": "jose68",
+        "name": "April Bell",
+        "email": "farrelljason@example.com",
+        "address": "950 Stevens Pine\nBrianburgh, FM 96565",
+        "age": 71
+    },
+    {
+        "username": "heathermcfarland",
+        "name": "Jennifer Rangel",
+        "email": "hoodjacob@example.net",
+        "address": "88522 Deborah Fall Suite 907\nWilliamsfort, NC 72264",
+        "age": 21
+    },
+    {
+        "username": "shawn78",
+        "name": "Lee Galvan",
+        "email": "garciawilliam@example.com",
+        "address": "4666 Marvin Park Suite 117\nRogersmouth, OK 81017",
+        "age": 45
+    },
+    {
+        "username": "nbrown",
+        "name": "Zachary Johnson PhD",
+        "email": "davidbarnes@example.com",
+        "address": "33082 Ramos Overpass Suite 639\nEast Amy, CA 41438",
+        "age": 45
+    },
+    {
+        "username": "ryanryan",
+        "name": "Nancy Cook",
+        "email": "lloydrobin@example.org",
+        "address": "9770 Jill Groves Apt. 751\nThompsonmouth, MA 40674",
+        "age": 58
+    }
+]

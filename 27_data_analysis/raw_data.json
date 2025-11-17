@@ -1,0 +1,347 @@
+[
+    {
+        "user": {
+            "username": "jacksonjonathan",
+            "name": "Miss Melissa Benson",
+            "email": "brenda69@example.org",
+            "address": "83178 Gonzalez Springs\nGutierrezborough, MO 73928",
+            "age": 23
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/07/03_2027/01/31_25-40_EUR",
+                "cmp_budget": 763553,
+                "cmp_spent": 210537
+            },
+            {
+                "cmp_name": "2025/04/22_2026/11/29_45-60_EUR",
+                "cmp_budget": 948701,
+                "cmp_spent": 184384
+            },
+            {
+                "cmp_name": "2026/11/14_2027/11/10_35-60_USD",
+                "cmp_budget": 513655,
+                "cmp_spent": 104102
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "lopeznatasha",
+            "name": "Robert Oconnor",
+            "email": "pattersondestiny@example.org",
+            "address": "071 Carr Avenue Suite 792\nSouth Angelaburgh, MO 38667",
+            "age": 34
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/06/25_2026/02/16_45-50_USD",
+                "cmp_budget": 251385,
+                "cmp_spent": 109121
+            },
+            {
+                "cmp_name": "2026/02/24_2027/06/18_35-55_EUR",
+                "cmp_budget": 541424,
+                "cmp_spent": 541302
+            },
+            {
+                "cmp_name": "2026/07/19_2027/04/18_35-40_EUR",
+                "cmp_budget": 662413,
+                "cmp_spent": 1802
+            },
+            {
+                "cmp_name": "2025/01/07_2026/09/09_35-60_EUR",
+                "cmp_budget": 566433,
+                "cmp_spent": 438724
+            },
+            {
+                "cmp_name": "2025/10/26_2028/05/16_25-45_GBP",
+                "cmp_budget": 906678,
+                "cmp_spent": 287405
+            },
+            {
+                "cmp_name": "2025/01/30_2027/02/01_40-60_USD",
+                "cmp_budget": 58310,
+                "cmp_spent": 41096
+            },
+            {
+                "cmp_name": "2026/08/11_2026/04/24_35-40_USD",
+                "cmp_budget": 946098,
+                "cmp_spent": 620712
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "robertvillarreal",
+            "name": "Jessica Hinton",
+            "email": "cody12@example.net",
+            "address": "3120 Gibson Point Suite 322\nWest Rhonda, GA 68563",
+            "age": 65
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/08/18_2027/03/30_30-35_USD",
+                "cmp_budget": 421842,
+                "cmp_spent": 242699
+            },
+            {
+                "cmp_name": "2025/10/21_2026/08/22_25-50_EUR",
+                "cmp_budget": 38503,
+                "cmp_spent": 36950
+            },
+            {
+                "cmp_name": "2025/11/17_2026/10/03_25-40_USD",
+                "cmp_budget": 669271,
+                "cmp_spent": 286016
+            },
+            {
+                "cmp_name": "2026/08/08_2026/03/30_20-25_EUR",
+                "cmp_budget": 780085,
+                "cmp_spent": 178388
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "shanerivers",
+            "name": "Amanda Miles",
+            "email": "jason22@example.net",
+            "address": "02394 Webb Prairie Apt. 662\nDavisside, AL 85987",
+            "age": 31
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/04/10_2027/09/05_40-55_GBP",
+                "cmp_budget": 400168,
+                "cmp_spent": 48565
+            },
+            {
+                "cmp_name": "2025/05/01_2027/02/10_30-35_USD",
+                "cmp_budget": 499926,
+                "cmp_spent": 360183
+            },
+            {
+                "cmp_name": "2025/01/02_2027/06/13_40-65_GBP",
+                "cmp_budget": 610015,
+                "cmp_spent": 234261
+            },
+            {
+                "cmp_name": "2026/02/18_2026/11/02_25-50_GBP",
+                "cmp_budget": 204330,
+                "cmp_spent": 163045
+            },
+            {
+                "cmp_name": "2026/10/07_2027/07/06_45-70_GBP",
+                "cmp_budget": 483816,
+                "cmp_spent": 219693
+            },
+            {
+                "cmp_name": "2025/05/09_2026/05/20_20-45_EUR",
+                "cmp_budget": 634500,
+                "cmp_spent": 146627
+            },
+            {
+                "cmp_name": "2025/01/23_2025/12/26_45-60_EUR",
+                "cmp_budget": 795338,
+                "cmp_spent": 394918
+            },
+            {
+                "cmp_name": "2026/09/16_2026/08/12_20-25_GBP",
+                "cmp_budget": 587753,
+                "cmp_spent": 547211
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "kylesmith",
+            "name": "Jennifer Hodge",
+            "email": "doylejohn@example.net",
+            "address": "09332 Murray Grove\nNorth Coreyville, MI 04041",
+            "age": 22
+        },
+        "campaign": [
+            {
+                "cmp_name": "2025/05/16_2027/03/18_25-45_EUR",
+                "cmp_budget": 919552,
+                "cmp_spent": 294105
+            },
+            {
+                "cmp_name": "2025/09/18_2027/02/10_45-55_EUR",
+                "cmp_budget": 571398,
+                "cmp_spent": 273130
+            },
+            {
+                "cmp_name": "2025/02/10_2025/12/29_35-50_GBP",
+                "cmp_budget": 737618,
+                "cmp_spent": 256551
+            },
+            {
+                "cmp_name": "2025/02/05_2027/04/17_30-45_USD",
+                "cmp_budget": 630216,
+                "cmp_spent": 491815
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "jose68",
+            "name": "April Bell",
+            "email": "farrelljason@example.com",
+            "address": "950 Stevens Pine\nBrianburgh, FM 96565",
+            "age": 71
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/07/21_2027/06/14_40-50_GBP",
+                "cmp_budget": 59091,
+                "cmp_spent": 32097
+            },
+            {
+                "cmp_name": "2026/05/12_2027/09/03_40-50_EUR",
+                "cmp_budget": 130916,
+                "cmp_spent": 81335
+            },
+            {
+                "cmp_name": "2025/02/17_2028/03/03_20-30_USD",
+                "cmp_budget": 269731,
+                "cmp_spent": 95418
+            },
+            {
+                "cmp_name": "2026/08/07_2026/05/30_35-45_USD",
+                "cmp_budget": 568832,
+                "cmp_spent": 507446
+            },
+            {
+                "cmp_name": "2026/07/11_2025/06/25_25-35_GBP",
+                "cmp_budget": 203728,
+                "cmp_spent": 27617
+            },
+            {
+                "cmp_name": "2025/08/24_2026/06/18_30-35_EUR",
+                "cmp_budget": 109637,
+                "cmp_spent": 62583
+            },
+            {
+                "cmp_name": "2025/04/08_2027/03/15_20-30_EUR",
+                "cmp_budget": 100305,
+                "cmp_spent": 95426
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "heathermcfarland",
+            "name": "Jennifer Rangel",
+            "email": "hoodjacob@example.net",
+            "address": "88522 Deborah Fall Suite 907\nWilliamsfort, NC 72264",
+            "age": 21
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/11/11_2027/07/02_45-70_GBP",
+                "cmp_budget": 256156,
+                "cmp_spent": 175451
+            },
+            {
+                "cmp_name": "2026/06/18_2026/10/06_20-25_GBP",
+                "cmp_budget": 973492,
+                "cmp_spent": 519593
+            },
+            {
+                "cmp_name": "2026/03/04_2028/02/17_35-45_EUR",
+                "cmp_budget": 636876,
+                "cmp_spent": 155016
+            },
+            {
+                "cmp_name": "2026/05/13_2026/12/20_30-50_GBP",
+                "cmp_budget": 997602,
+                "cmp_spent": 775286
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "shawn78",
+            "name": "Lee Galvan",
+            "email": "garciawilliam@example.com",
+            "address": "4666 Marvin Park Suite 117\nRogersmouth, OK 81017",
+            "age": 45
+        },
+        "campaign": [
+            {
+                "cmp_name": "2025/08/06_2027/12/08_20-45_EUR",
+                "cmp_budget": 242742,
+                "cmp_spent": 169594
+            },
+            {
+                "cmp_name": "2025/06/30_2025/08/11_35-60_GBP",
+                "cmp_budget": 408287,
+                "cmp_spent": 174743
+            },
+            {
+                "cmp_name": "2025/11/24_2027/03/23_45-70_EUR",
+                "cmp_budget": 572689,
+                "cmp_spent": 350281
+            },
+            {
+                "cmp_name": "2026/08/16_2026/12/31_25-50_EUR",
+                "cmp_budget": 621370,
+                "cmp_spent": 96780
+            },
+            {
+                "cmp_name": "2025/01/25_2027/10/08_45-55_EUR",
+                "cmp_budget": 101510,
+                "cmp_spent": 86552
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "nbrown",
+            "name": "Zachary Johnson PhD",
+            "email": "davidbarnes@example.com",
+            "address": "33082 Ramos Overpass Suite 639\nEast Amy, CA 41438",
+            "age": 45
+        },
+        "campaign": [
+            {
+                "cmp_name": "2025/01/06_2025/10/21_20-40_EUR",
+                "cmp_budget": 733193,
+                "cmp_spent": 534389
+            },
+            {
+                "cmp_name": "2026/05/18_2026/05/27_25-50_GBP",
+                "cmp_budget": 526317,
+                "cmp_spent": 308028
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "ryanryan",
+            "name": "Nancy Cook",
+            "email": "lloydrobin@example.org",
+            "address": "9770 Jill Groves Apt. 751\nThompsonmouth, MA 40674",
+            "age": 58
+        },
+        "campaign": [
+            {
+                "cmp_name": "2025/02/13_2028/02/21_45-70_USD",
+                "cmp_budget": 512939,
+                "cmp_spent": 217450
+            },
+            {
+                "cmp_name": "2025/09/25_2026/11/02_35-40_USD",
+                "cmp_budget": 387925,
+                "cmp_spent": 11687
+            },
+            {
+                "cmp_name": "2026/10/24_2026/09/22_40-55_USD",
+                "cmp_budget": 157159,
+                "cmp_spent": 13252
+            }
+        ]
+    }
+]
