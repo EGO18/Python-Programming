@@ -1,0 +1,72 @@
+[
+    {
+        "username": "vjimenez",
+        "name": "Andrea Pierce",
+        "email": "carlpoole@example.net",
+        "address": "USNV Sanchez\nFPO AE 01797",
+        "age": 72
+    },
+    {
+        "username": "rowebrittany",
+        "name": "Christine Cohen",
+        "email": "michellesavage@example.org",
+        "address": "9668 Stewart Turnpike\nAlyssaville, WA 76315",
+        "age": 21
+    },
+    {
+        "username": "madeline94",
+        "name": "Jesse Oconnor",
+        "email": "marcus36@example.com",
+        "address": "2162 Alexander Curve\nBoyerborough, DC 29269",
+        "age": 29
+    },
+    {
+        "username": "jessica48",
+        "name": "Carmen Peters",
+        "email": "brianreid@example.net",
+        "address": "4744 Peterson Mall Suite 788\nNorth Ashleyborough, VI 33671",
+        "age": 24
+    },
+    {
+        "username": "ujohnson",
+        "name": "Anne Wood",
+        "email": "lisa12@example.net",
+        "address": "PSC 9250, Box 9907\nAPO AA 02811",
+        "age": 69
+    },
+    {
+        "username": "torreskatie",
+        "name": "Jesus Smith",
+        "email": "loribenitez@example.net",
+        "address": "118 Montes Lane\nPort Veronica, MO 11888",
+        "age": 79
+    },
+    {
+        "username": "matthewtate",
+        "name": "Robert Jones",
+        "email": "carlosedwards@example.org",
+        "address": "9752 Hernandez Roads Apt. 439\nEast Patricia, TX 50859",
+        "age": 54
+    },
+    {
+        "username": "yucody",
+        "name": "Mary Chase",
+        "email": "cruzmary@example.net",
+        "address": "9130 Scott Island\nToddport, KS 60256",
+        "age": 26
+    },
+    {
+        "username": "emilymoran",
+        "name": "Robert Stuart",
+        "email": "floydchristopher@example.com",
+        "address": "71735 Whitaker Groves Suite 649\nPort Brendaborough, KY 26511",
+        "age": 75
+    },
+    {
+        "username": "rebecca56",
+        "name": "Bradley Roberts",
+        "email": "sandra40@example.org",
+        "address": "7614 Emily Rue Apt. 686\nEast Johnview, WA 10637",
+        "age": 62
+    }
+]

@@ -1,0 +1,327 @@
+[
+    {
+        "user": {
+            "username": "vjimenez",
+            "name": "Andrea Pierce",
+            "email": "carlpoole@example.net",
+            "address": "USNV Sanchez\nFPO AE 01797",
+            "age": 72
+        },
+        "campaign": [
+            {
+                "cmp_name": "2025/12/31_2028/01/08_40-45_GBP",
+                "cmp_budget": 669025,
+                "cmp_spent": 258647
+            },
+            {
+                "cmp_name": "2026/05/13_2028/08/18_35-40_GBP",
+                "cmp_budget": 754415,
+                "cmp_spent": 474754
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "rowebrittany",
+            "name": "Christine Cohen",
+            "email": "michellesavage@example.org",
+            "address": "9668 Stewart Turnpike\nAlyssaville, WA 76315",
+            "age": 21
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/01/01_2025/07/03_35-40_EUR",
+                "cmp_budget": 996613,
+                "cmp_spent": 789315
+            },
+            {
+                "cmp_name": "2025/09/18_2026/07/22_40-55_EUR",
+                "cmp_budget": 37097,
+                "cmp_spent": 10015
+            },
+            {
+                "cmp_name": "2026/05/13_2026/08/28_35-45_GBP",
+                "cmp_budget": 388408,
+                "cmp_spent": 151041
+            },
+            {
+                "cmp_name": "2026/07/03_2025/11/13_45-50_GBP",
+                "cmp_budget": 712729,
+                "cmp_spent": 15366
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "madeline94",
+            "name": "Jesse Oconnor",
+            "email": "marcus36@example.com",
+            "address": "2162 Alexander Curve\nBoyerborough, DC 29269",
+            "age": 29
+        },
+        "campaign": [
+            {
+                "cmp_name": "2025/07/09_2026/08/21_25-35_EUR",
+                "cmp_budget": 417047,
+                "cmp_spent": 296986
+            },
+            {
+                "cmp_name": "2025/10/10_2027/08/28_30-45_EUR",
+                "cmp_budget": 26943,
+                "cmp_spent": 303
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "jessica48",
+            "name": "Carmen Peters",
+            "email": "brianreid@example.net",
+            "address": "4744 Peterson Mall Suite 788\nNorth Ashleyborough, VI 33671",
+            "age": 24
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/01/17_2027/04/06_45-50_GBP",
+                "cmp_budget": 972533,
+                "cmp_spent": 65010
+            },
+            {
+                "cmp_name": "2026/09/03_2027/02/16_45-55_EUR",
+                "cmp_budget": 282553,
+                "cmp_spent": 119259
+            },
+            {
+                "cmp_name": "2025/03/08_2027/12/22_40-65_USD",
+                "cmp_budget": 365764,
+                "cmp_spent": 338763
+            },
+            {
+                "cmp_name": "2025/01/14_2026/07/26_20-40_GBP",
+                "cmp_budget": 26571,
+                "cmp_spent": 3627
+            },
+            {
+                "cmp_name": "2026/10/29_2025/07/13_25-50_EUR",
+                "cmp_budget": 144306,
+                "cmp_spent": 45817
+            },
+            {
+                "cmp_name": "2026/04/20_2027/01/23_40-45_USD",
+                "cmp_budget": 675390,
+                "cmp_spent": 4133
+            },
+            {
+                "cmp_name": "2025/10/11_2025/04/01_40-45_GBP",
+                "cmp_budget": 23588,
+                "cmp_spent": 11882
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "ujohnson",
+            "name": "Anne Wood",
+            "email": "lisa12@example.net",
+            "address": "PSC 9250, Box 9907\nAPO AA 02811",
+            "age": 69
+        },
+        "campaign": [
+            {
+                "cmp_name": "2025/09/21_2026/12/10_25-35_GBP",
+                "cmp_budget": 300049,
+                "cmp_spent": 243755
+            },
+            {
+                "cmp_name": "2026/02/18_2027/09/14_25-40_USD",
+                "cmp_budget": 445644,
+                "cmp_spent": 111964
+            },
+            {
+                "cmp_name": "2026/07/26_2027/08/17_45-70_EUR",
+                "cmp_budget": 560416,
+                "cmp_spent": 394274
+            },
+            {
+                "cmp_name": "2025/10/06_2026/07/15_35-55_USD",
+                "cmp_budget": 705663,
+                "cmp_spent": 405885
+            },
+            {
+                "cmp_name": "2026/03/20_2026/12/12_30-35_GBP",
+                "cmp_budget": 486486,
+                "cmp_spent": 354216
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "torreskatie",
+            "name": "Jesus Smith",
+            "email": "loribenitez@example.net",
+            "address": "118 Montes Lane\nPort Veronica, MO 11888",
+            "age": 79
+        },
+        "campaign": [
+            {
+                "cmp_name": "2025/04/27_2027/06/10_25-50_USD",
+                "cmp_budget": 808178,
+                "cmp_spent": 107877
+            },
+            {
+                "cmp_name": "2026/05/10_2026/08/05_20-25_USD",
+                "cmp_budget": 479132,
+                "cmp_spent": 338131
+            },
+            {
+                "cmp_name": "2026/06/19_2026/07/28_45-70_EUR",
+                "cmp_budget": 485719,
+                "cmp_spent": 252452
+            },
+            {
+                "cmp_name": "2025/07/13_2025/04/07_25-30_USD",
+                "cmp_budget": 696497,
+                "cmp_spent": 383788
+            },
+            {
+                "cmp_name": "2025/08/14_2026/11/20_40-65_EUR",
+                "cmp_budget": 688071,
+                "cmp_spent": 161306
+            },
+            {
+                "cmp_name": "2025/01/02_2027/07/09_45-65_USD",
+                "cmp_budget": 210009,
+                "cmp_spent": 14863
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "matthewtate",
+            "name": "Robert Jones",
+            "email": "carlosedwards@example.org",
+            "address": "9752 Hernandez Roads Apt. 439\nEast Patricia, TX 50859",
+            "age": 54
+        },
+        "campaign": [
+            {
+                "cmp_name": "2024/12/25_2027/08/21_40-60_USD",
+                "cmp_budget": 89204,
+                "cmp_spent": 30655
+            },
+            {
+                "cmp_name": "2025/11/09_2026/08/07_30-55_EUR",
+                "cmp_budget": 466316,
+                "cmp_spent": 346639
+            },
+            {
+                "cmp_name": "2025/07/31_2026/07/11_35-60_EUR",
+                "cmp_budget": 4389,
+                "cmp_spent": 3511
+            },
+            {
+                "cmp_name": "2025/11/25_2026/09/16_30-50_EUR",
+                "cmp_budget": 832111,
+                "cmp_spent": 411550
+            },
+            {
+                "cmp_name": "2025/12/22_2027/09/08_20-35_EUR",
+                "cmp_budget": 636686,
+                "cmp_spent": 291353
+            },
+            {
+                "cmp_name": "2025/10/26_2027/08/28_20-45_EUR",
+                "cmp_budget": 44526,
+                "cmp_spent": 43935
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "yucody",
+            "name": "Mary Chase",
+            "email": "cruzmary@example.net",
+            "address": "9130 Scott Island\nToddport, KS 60256",
+            "age": 26
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/08/17_2026/06/13_25-35_EUR",
+                "cmp_budget": 435838,
+                "cmp_spent": 220171
+            },
+            {
+                "cmp_name": "2025/03/06_2027/10/30_45-60_GBP",
+                "cmp_budget": 816380,
+                "cmp_spent": 449113
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "emilymoran",
+            "name": "Robert Stuart",
+            "email": "floydchristopher@example.com",
+            "address": "71735 Whitaker Groves Suite 649\nPort Brendaborough, KY 26511",
+            "age": 75
+        },
+        "campaign": [
+            {
+                "cmp_name": "2025/12/04_2027/12/21_35-50_GBP",
+                "cmp_budget": 493484,
+                "cmp_spent": 431967
+            },
+            {
+                "cmp_name": "2025/01/02_2027/04/06_45-70_USD",
+                "cmp_budget": 860778,
+                "cmp_spent": 649532
+            },
+            {
+                "cmp_name": "2024/11/26_2027/04/29_25-30_GBP",
+                "cmp_budget": 973811,
+                "cmp_spent": 205209
+            }
+        ]
+    },
+    {
+        "user": {
+            "username": "rebecca56",
+            "name": "Bradley Roberts",
+            "email": "sandra40@example.org",
+            "address": "7614 Emily Rue Apt. 686\nEast Johnview, WA 10637",
+            "age": 62
+        },
+        "campaign": [
+            {
+                "cmp_name": "2026/06/06_2027/06/15_35-55_GBP",
+                "cmp_budget": 428927,
+                "cmp_spent": 360175
+            },
+            {
+                "cmp_name": "2025/01/20_2026/08/18_35-45_GBP",
+                "cmp_budget": 586926,
+                "cmp_spent": 354134
+            },
+            {
+                "cmp_name": "2026/11/17_2028/02/06_30-45_USD",
+                "cmp_budget": 960099,
+                "cmp_spent": 547645
+            },
+            {
+                "cmp_name": "2025/12/04_2027/03/16_25-30_USD",
+                "cmp_budget": 839712,
+                "cmp_spent": 502381
+            },
+            {
+                "cmp_name": "2026/05/30_2028/04/27_20-45_EUR",
+                "cmp_budget": 995494,
+                "cmp_spent": 571043
+            },
+            {
+                "cmp_name": "2026/10/02_2027/10/07_35-55_USD",
+                "cmp_budget": 483654,
+                "cmp_spent": 33921
+            }
+        ]
+    }
+]
